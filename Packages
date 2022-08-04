@@ -12,6 +12,7 @@ Size: 9990
 MD5sum: 492cbe51757a73b8a5b66544c9768090
 SHA1: c1fec94026575ba539d9c9c0253486f13fea7dbc
 SHA256: 8ca02488fa708dd248d02c9c5002235caf310920260bc369d55a7347869ddca0
+
 Package: com.xcxiao.dockxi
 Name: DockXI For iOS8/9/10/11
 Version: 1.1.1
