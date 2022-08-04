@@ -12,3 +12,17 @@ Size: 9990
 MD5sum: 492cbe51757a73b8a5b66544c9768090
 SHA1: c1fec94026575ba539d9c9c0253486f13fea7dbc
 SHA256: 8ca02488fa708dd248d02c9c5002235caf310920260bc369d55a7347869ddca0
+Package: com.xcxiao.dockxi
+Name: DockXI For iOS8/9/10/11
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Compatible with iOS 8, 9, 10 and 11 - iOS 11 Dock Style For iOS Devices. Tweak will work immediately after installing. Contact me if some new feature can be added :-) - Configure options from Settings.
+Maintainer: XCXiao
+Author: XCXiao
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode
+Filename: debs/com.xcxiao.dockxi_1.1.1_iphoneos-arm.deb
+Size: 26498
+MD5sum: 7eb2ac7cc06e37a242a21e1243ed446a
+SHA1: 6be33efd57e81d9185214bddf6ef58da6bcb7aae
+SHA256: 72b81428fbab066c143c9bc61533918ab0eef403d9d54669a35ebd55a4c8891f
