@@ -1,0 +1,14 @@
+Package: com.peterdev.whatabouthis
+Name: WhatAboutThis
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Brings an iOS 12.2-style About page in the Settings app to older versions.
+Maintainer: PeterDev
+Author: PeterDev
+Section: Tweaks
+Depends: mobilesubstrate, com.saurik.substrate.safemode
+Filename: debs/com.peterdev.whatabouthis_1.2.1_iphoneos-arm.deb
+Size: 9990
+MD5sum: 492cbe51757a73b8a5b66544c9768090
+SHA1: c1fec94026575ba539d9c9c0253486f13fea7dbc
+SHA256: 8ca02488fa708dd248d02c9c5002235caf310920260bc369d55a7347869ddca0
