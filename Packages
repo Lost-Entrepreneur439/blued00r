@@ -42,3 +42,18 @@ Size: 367824
 MD5sum: e585cbe7731462b4118ae1a08a6654c7
 SHA1: 7eb0d6a916d47c205ca30611dd354ee36dc17ade
 SHA256: 7282ee1870950e7b6d4903f50199db8afe72712734ee81f6c1c8197383acd16b
+
+Package: com.modmyi.gifroll
+Name: GIFRoll
+Version: 1.1
+Architecture: iphoneos-arm
+Description: <p style="text-align: left;">Ever wondered why the Photos app doesn't display GIFs? Well me too! And ever since 2016, GIFs have simply taken over the internet! So it's time for iOS to adapt!</p> - <p>&nbsp;</p> - <p>For years, simply viewing a GIF in the Photos app was a paid premium feature!&nbsp;<span>In 2017, however, that makes no sense at all! So I decided that this needs to beciome both free and Open Source, once and for all!</span></p> - <p>&nbsp;</p> - <p><span><span>However, I am just a university student, living off my student loan, so any donations are always welcome! If you want to see my tweak in action, just check the video! </span></span></p> - <p><iframe style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/1fOlW02-TTQ?rel=0" frameborder="0" width="282" height="212></iframe></p> - <p>&nbsp;</p> - <p>&nbsp;</p>
+Maintainer: isklikas
+Author: isklikas
+Section: Tweaks
+Depends: mobilesubstrate, com.saurik.substrate.safemode
+Filename: debs/com.modmyi.gifroll_1.1_iphoneos-arm.deb
+Size: 159234
+MD5sum: 261ff0f4d64073a48c238eb2e1c0eba7
+SHA1: 7e75cdb085f68bd22f8419ce11bcad49b75e2e99
+SHA256: 77983b824860526d4fb08fddc9ddfa9cc49f5f7789a9168ccfab1dcac4018f37
