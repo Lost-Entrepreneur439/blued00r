@@ -27,3 +27,18 @@ Size: 26498
 MD5sum: 7eb2ac7cc06e37a242a21e1243ed446a
 SHA1: 6be33efd57e81d9185214bddf6ef58da6bcb7aae
 SHA256: 72b81428fbab066c143c9bc61533918ab0eef403d9d54669a35ebd55a4c8891f
+
+Package: com.masond3v.iphonextheme
+Name: iPhone X Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Brings the experience of the iPhone X to your iDevice. With this theme bring the the iPhone X dock, status bar, icons, and more to your device. - Anemone is required for these themes to work.
+Maintainer: MasonD3V
+Author: MasonD3V
+Section: Themes
+Depends: com.anemonetheming.anemone, mobilesubstrate, pincrush, com.rpetrich.rocketbootstrap, com.saurik.substrate.safemode
+Filename: debs/com.masond3v.iphonextheme_1.0_iphoneos-arm.deb
+Size: 367824
+MD5sum: e585cbe7731462b4118ae1a08a6654c7
+SHA1: 7eb0d6a916d47c205ca30611dd354ee36dc17ade
+SHA256: 7282ee1870950e7b6d4903f50199db8afe72712734ee81f6c1c8197383acd16b
