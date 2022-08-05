@@ -62,13 +62,13 @@ Package: com.spotify.client.legacy
 Name: Spotify
 Version: 0.4.13
 Architecture: iphoneos-arm
-Description: With Spotify, you can play millions of songs and podcasts for free. Listen to the music and audio content you love and enjoy from here and all over the world.
+Description: With Spotify, you can play millions of songs and podcasts for free. Listen to the music and audio content you love and enjoy from here and all over the world
 Maintainer: Lost-Entrepreneur439 (Ella)
 Author: Spotify
-Section: iPhone OS 3 apps
+Section: Tweaks
 Depends:
 Filename: debs/com.spotify.client.legacy_0.4.13_iphoneos-arm.deb
-Size: 3038836
-MD5sum: 884035728fa27fe6815645e7bd0f68f5
-SHA1: 6aa3bdedc5ff3f958789b5dd347f724a14a0161a
-SHA256: ada74d9f98f15ebf162bde3a46cac27590db4920879c0c0ecae98cea349a31f7
+Size: 3039232
+MD5sum: c6b3e73c63e23d16dcdf2ccb77b9259a
+SHA1: 85a253ce04c6d091391def8a21f52c289c112e8f
+SHA256: 082ea79fac72e0cfe13a62b436da9c7c5cf3e8a704fee50df0e8b785da05b681
