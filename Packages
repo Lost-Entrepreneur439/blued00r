@@ -58,17 +58,17 @@ MD5sum: 261ff0f4d64073a48c238eb2e1c0eba7
 SHA1: 7e75cdb085f68bd22f8419ce11bcad49b75e2e99
 SHA256: 77983b824860526d4fb08fddc9ddfa9cc49f5f7789a9168ccfab1dcac4018f37
 
-Package: com.primatelabs.geekbench
-Name: Geekbench
-Version: 2.4.0
+Package: com.spotify.client.legacy
+Name: Spotify
+Version: 0.4.13
 Architecture: iphoneos-arm
-Description: Geekbench provides a comprehensive set of benchmarks designed to quickly and accurately measure CPU and GPU Compute performance. Designed to make benchmarks easy to run and easy to understand, Geekbench takes the guesswork out of producing robust and reliable benchmark results.
+Description: With Spotify, you can play millions of songs and podcasts for free. Listen to the music and audio content you love and enjoy from here and all over the world.
 Maintainer: Lost-Entrepreneur439 (Ella)
-Author: Primate Labs Inc.
-Section: Tweaks
+Author: Spotify
+Section: iPhone OS 3 apps
 Depends:
-Filename: debs/com.primatelabs.geekbench_2.4.0_iphoneos-arm.deb
-Size: 14890130
-MD5sum: 1950cf9f41590857afbb3aadeacd37c3
-SHA1: 62c3655a3ab72c9904afce6ce5969c04fd7b5e44
-SHA256: ec9947169c153d7eb1cd5e26931982bd485db3b2f76c4d4b43d1d982283352b8
+Filename: debs/com.spotify.client.legacy_0.4.13_iphoneos-arm.deb
+Size: 3038836
+MD5sum: 884035728fa27fe6815645e7bd0f68f5
+SHA1: 6aa3bdedc5ff3f958789b5dd347f724a14a0161a
+SHA256: ada74d9f98f15ebf162bde3a46cac27590db4920879c0c0ecae98cea349a31f7
