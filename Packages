@@ -3,7 +3,7 @@ Name: WhatAboutThis
 Version: 1.2.1
 Architecture: iphoneos-arm
 Description: Brings an iOS 12.2-style About page in the Settings app to older versions.
-Maintainer: PeterDev
+Maintainer: Lost-Entrepreneur439 (Ella)
 Author: PeterDev
 Section: Tweaks
 Depends: mobilesubstrate, com.saurik.substrate.safemode
@@ -18,7 +18,7 @@ Name: DockXI For iOS8/9/10/11
 Version: 1.1.1
 Architecture: iphoneos-arm
 Description: Compatible with iOS 8, 9, 10 and 11 - iOS 11 Dock Style For iOS Devices. Tweak will work immediately after installing. Contact me if some new feature can be added :-) - Configure options from Settings.
-Maintainer: XCXiao
+Maintainer: Lost-Entrepreneur439 (Ella)
 Author: XCXiao
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode
@@ -33,7 +33,7 @@ Name: iPhone X Theme
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Brings the experience of the iPhone X to your iDevice. With this theme bring the the iPhone X dock, status bar, icons, and more to your device. - Anemone is required for these themes to work.
-Maintainer: MasonD3V
+Maintainer: Lost-Entrepreneur439 (Ella)
 Author: MasonD3V
 Section: Themes
 Depends: com.anemonetheming.anemone, mobilesubstrate, pincrush, com.rpetrich.rocketbootstrap, com.saurik.substrate.safemode
@@ -48,7 +48,7 @@ Name: GIFRoll
 Version: 1.1
 Architecture: iphoneos-arm
 Description: <p style="text-align: left;">Ever wondered why the Photos app doesn't display GIFs? Well me too! And ever since 2016, GIFs have simply taken over the internet! So it's time for iOS to adapt!</p> - <p>&nbsp;</p> - <p>For years, simply viewing a GIF in the Photos app was a paid premium feature!&nbsp;<span>In 2017, however, that makes no sense at all! So I decided that this needs to beciome both free and Open Source, once and for all!</span></p> - <p>&nbsp;</p> - <p><span><span>However, I am just a university student, living off my student loan, so any donations are always welcome! If you want to see my tweak in action, just check the video! </span></span></p> - <p><iframe style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/1fOlW02-TTQ?rel=0" frameborder="0" width="282" height="212></iframe></p> - <p>&nbsp;</p> - <p>&nbsp;</p>
-Maintainer: isklikas
+Maintainer: Lost-Entrepreneur439 (Ella)
 Author: isklikas
 Section: Tweaks
 Depends: mobilesubstrate, com.saurik.substrate.safemode
@@ -57,3 +57,18 @@ Size: 159234
 MD5sum: 261ff0f4d64073a48c238eb2e1c0eba7
 SHA1: 7e75cdb085f68bd22f8419ce11bcad49b75e2e99
 SHA256: 77983b824860526d4fb08fddc9ddfa9cc49f5f7789a9168ccfab1dcac4018f37
+
+Package: com.primatelabs.geekbench
+Name: Geekbench
+Version: 2.4.0
+Architecture: iphoneos-arm
+Description: Geekbench provides a comprehensive set of benchmarks designed to quickly and accurately measure CPU and GPU Compute performance. Designed to make benchmarks easy to run and easy to understand, Geekbench takes the guesswork out of producing robust and reliable benchmark results.
+Maintainer: Lost-Entrepreneur439 (Ella)
+Author: Primate Labs Inc.
+Section: iOS 4 apps
+Depends:
+Filename: debs/com.primatelabs.geekbench_2.4.0_iphoneos-arm.deb
+Size: 14890130
+MD5sum: 1950cf9f41590857afbb3aadeacd37c3
+SHA1: 62c3655a3ab72c9904afce6ce5969c04fd7b5e44
+SHA256: ec9947169c153d7eb1cd5e26931982bd485db3b2f76c4d4b43d1d982283352b8
