@@ -65,7 +65,7 @@ Architecture: iphoneos-arm
 Description: With Spotify, you can play millions of songs and podcasts for free. Listen to the music and audio content you love and enjoy from here and all over the world
 Maintainer: Lost-Entrepreneur439 (Ella)
 Author: Spotify
-Section: Tweaks
+Section: iPhone OS 3 apps
 Depends:
 Filename: debs/com.spotify.client.legacy_0.4.13_iphoneos-arm.deb
 Size: 3039232
