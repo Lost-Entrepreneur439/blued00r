@@ -87,3 +87,18 @@ Size: 1856208
 MD5sum: c6629bb46380d2ad7305e7530fed3319
 SHA1: a104270106577bd960c662200baa7d34f967ddfb
 SHA256: cf0a9f3da6b2e4a132f5515d7de1d26a86399351ece9b7bbb563c9dc632d27e0
+
+Package: com.lost-entrepreneur439.ios15icons
+Name: iOS 15 Icons
+Version: 1.0
+Architecture: iphoneos-arm
+Description:  iOS 15 Icons for iOS 10. This is for devices WITHOUT the News and TV app. To use the Files app icon, download Filza. To use the News, Magnifier, Measure, Shortcuts, and Translate apps, download the app ipas from the Blued00r installation guide on r/blued00r.
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: Lost-Entrepreneur439 (Ella)
+Section: Themes
+Depends: com.anemonetheming.anemone
+Filenames: debs/com.lost-entrepreneur439.ios15icons_1.0_iphoneos-arm.deb
+Size: 1278506
+MD5sum: b232d1c984620b10e5d80494f08a023f
+SHA1: 6aedf9c5164e9143068c683db852ccd8d3ad2634
+SHA256: d0d280a1eb1a13c5936fdaca42543d3aa827ef5562722f194d5f41605af53813
