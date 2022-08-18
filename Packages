@@ -13,33 +13,32 @@ MD5sum: 492cbe51757a73b8a5b66544c9768090
 SHA1: c1fec94026575ba539d9c9c0253486f13fea7dbc
 SHA256: 8ca02488fa708dd248d02c9c5002235caf310920260bc369d55a7347869ddca0
 
-
 Package: com.lost-entrepreneur439.ios15icons
 Name: iOS 15 Icons
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
-Description:  iOS 15 Icons for iOS 10. This is for devices WITHOUT the News and TV app. To use the Files app icon, download Filza. To use the News, Magnifier, Measure, Shortcuts, and Translate apps, download the app ipas from the Blued00r installation guide on r/blued00r.
+Description:  iOS 15 Icons for iOS 10. This is for devices WITHOUT the News and TV app. 
 Maintanier: Lost-Entrepreneur439 (Ella)
 Author: Lost-Entrepreneur439 (Ella)
 Section: Themes
 Depends: com.anemonetheming.anemone
-Filename: debs/com.lost-entrepreneur439.ios15icons_1.0.2_iphoneos-arm.deb
-Size: 1309852
-MD5sum: 46501f24c5aa00d7452a54571051ee77
-SHA1: a08e3e6635bc4757922a374fe488fe30b1015331
-SHA256: 822e967c2f0e22974af420e1d1d3c6506c43b42777e6b7762ce01be1943de715
+Filename: debs/com.lost-entrepreneur439.ios15icons_1.0.3_iphoneos-arm.deb
+Size: 1309744
+MD5sum: d1a3b0bbdd272f384835315ec323e457
+SHA1: 580adea003018a9d0a7982eb2599d7090e48eb1d
+SHA256: 86a1eec05a719ef4a560987f08ae1e24f17220a812281c8ceadeb3acd55f4ac7
 
 Package: com.lost-entrepreneur439.ios15iconsamerica
 Name: iOS 15 Icons for American devices
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
-Description:  iOS 15 Icons for iOS 10. This is for devices WITH the News and TV app. To use the Magnifier, Measure, Shortcuts, and Translate apps, download the app ipas from the Blued00r installation guide on r/blued00r.
+Description:  iOS 15 Icons for iOS 10. This is for devices WITH the News and TV app.
 Maintanier: Lost-Entrepreneur439 (Ella)
 Author: Lost-Entrepreneur439 (Ella)
 Section: Themes
 Depends: com.anemonetheming.anemone
-Filename: debs/com.lost-entrepreneur439.ios15iconsamerica_1.0_iphoneos-arm.deb
-Size: 1309624
-MD5sum: a99c7579b203c6701571427bee19f79c
-SHA1: e24ac8c2e0f7f364c926e4c2bbc7347d68582df5
-SHA256: dd8b0437a9c0173947563c6c0404f74b56b0bcdb4c4811c80df993eb8f9d8d3a
+Filename: debs/com.lost-entrepreneur439.ios15iconsamerica_1.0.1_iphoneos-arm.deb
+Size: 1309544
+MD5sum: d4c737feb2534696ef87b9414c65589d
+SHA1: 713752d0c719fd20163620fd5d1a4c9277feda4b
+SHA256: 0179d842bb9bcd2af7f7e77a5eb6113120143702c88a2037f85cd351061561f1
