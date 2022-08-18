@@ -15,24 +15,24 @@ SHA256: 8ca02488fa708dd248d02c9c5002235caf310920260bc369d55a7347869ddca0
 
 Package: com.lost-entrepreneur439.ios15icons
 Name: iOS 15 Icons
-Version: 1.0.3
+Version: 1.1
 Architecture: iphoneos-arm
-Description:  iOS 15 Icons for iOS 10. This is for devices WITHOUT the News and TV app. 
+Description: This theme brings the app icons used in iOS 15 to iOS 9 and iOS 10. Use Anemone to apply the theme.
 Maintanier: Lost-Entrepreneur439 (Ella)
 Author: Lost-Entrepreneur439 (Ella)
 Section: Themes
 Depends: com.anemonetheming.anemone
-Filename: debs/com.lost-entrepreneur439.ios15icons_1.0.3_iphoneos-arm.deb
-Size: 1309744
-MD5sum: d1a3b0bbdd272f384835315ec323e457
-SHA1: 580adea003018a9d0a7982eb2599d7090e48eb1d
-SHA256: 86a1eec05a719ef4a560987f08ae1e24f17220a812281c8ceadeb3acd55f4ac7
+Filename: debs/com.lost-entrepreneur439.ios15icons_1.1_iphoneos-arm.deb
+Size: 1357962
+MD5sum: 0c6fa96a5a30b819ff74c7b6dfe7d28f
+SHA1: 656aacb21bf778cadca518dc15cb5266e50c1fff
+SHA256: c7f00825f9cae930147cd2eca22b0d220490672ffb80c397003a4ff743ae3ba5
 
 Package: com.lost-entrepreneur439.ios15iconsamerica
 Name: iOS 15 Icons for American devices
 Version: 1.0.1
 Architecture: iphoneos-arm
-Description:  iOS 15 Icons for iOS 10. This is for devices WITH the News and TV app.
+Description:  WARNING - This theme is DISCONTINUED and you should NOT use it. Please use the standard iOS 15 Icons theme, which is on this same repo.
 Maintanier: Lost-Entrepreneur439 (Ella)
 Author: Lost-Entrepreneur439 (Ella)
 Section: Themes
