@@ -15,18 +15,18 @@ SHA256: 8ca02488fa708dd248d02c9c5002235caf310920260bc369d55a7347869ddca0
 
 Package: com.lost-entrepreneur439.ios15icons
 Name: iOS 15 Icons
-Version: v1.2
+Version: v1.2.1
 Architecture: iphoneos-arm
 Description: This theme brings the app icons used in iOS 15 to older versions of iOS. This is designed for and works with iOS 7 and later. Use Anemone to apply the theme.
 Maintanier: Lost-Entrepreneur439 (Ella)
 Author: Lost-Entrepreneur439 (Ella)
 Section: Themes
 Depends: com.anemonetheming.anemone
-Filename: debs/com.lost-entrepreneur439.ios15icons_v1.2_iphoneos-arm.deb
-Size: 2094030
-MD5sum: c89c016b2b4e2c2b8ca514aa8755cffe
-SHA1: 432a57da5afe5051dd021c9384ac39f11a78b08b
-SHA256: 09ed95aa87ba6fae241f22e21c22106d97fbfea3c2948f492d87fdd5de4dc295
+Filename: debs/com.lost-entrepreneur439.ios15icons_v1.2.1_iphoneos-arm.deb
+Size: 2583770
+MD5sum: 3fb4f06af64be1bbd05eaeb3ded5ec12
+SHA1: 7168ddb2043d5e723c53e5927929845e6e7a0d0c
+SHA256: 37169b2e87ba8114fd4c2195d64570816141cf313a6f6d44f7bb060bf76d124f
 
 Package: com.lost-entrepreneur439.ios15iconsamerica
 Name: iOS 15 Icons for American devices
