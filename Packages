@@ -42,3 +42,18 @@ Size: 1309544
 MD5sum: d4c737feb2534696ef87b9414c65589d
 SHA1: 713752d0c719fd20163620fd5d1a4c9277feda4b
 SHA256: 0179d842bb9bcd2af7f7e77a5eb6113120143702c88a2037f85cd351061561f1
+
+Package: ws.hbang.common
+Name: Cephei
+Version: 1.17
+Architecture: iphoneos-arm
+Description:  Support Library for Tweaks
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: HASHBANG Productions
+Section: Tweaks
+Depends:
+Filename: debs/ws.hbang.common_1.17_iphoneos-arm.deb
+Size: 207662
+MD5sum: aea7132dbb77bf799ed6ff1942af9c0a
+SHA1: db31f872dab06eaeb0bc732ede9af5d2e94b52c5
+SHA256: 3eaea1713f40ef02606bfa67f44f62529ea8b923c0aefb39fc68e230c40a0f6d
