@@ -57,3 +57,18 @@ Size: 207662
 MD5sum: aea7132dbb77bf799ed6ff1942af9c0a
 SHA1: db31f872dab06eaeb0bc732ede9af5d2e94b52c5
 SHA256: 3eaea1713f40ef02606bfa67f44f62529ea8b923c0aefb39fc68e230c40a0f6d
+
+Package: me.gmoran.appdrawer
+Name: AppDrawer (iOS 8 - 12)
+Version: 1.5.1-1
+Architecture: iphoneos-arm
+Description:  Android-style app drawer for iOS
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: Guillermo Moran (@fr0st)
+Section: Tweaks
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: debs/me.gmoran.appdrawer_1.5.1-1.deb
+Size: 82336
+MD5sum: cd1f5278461051435dc018de55ecd9c6
+SHA1: 902373cb8b9da7c9d86b44b76fb93c23ca36568a
+SHA256: e99741b2a487107831025ca0053ed449cc2ebb65acfe2d42502e3bd50ee51586
