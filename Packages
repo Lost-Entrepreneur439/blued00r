@@ -72,3 +72,18 @@ Size: 82336
 MD5sum: cd1f5278461051435dc018de55ecd9c6
 SHA1: 902373cb8b9da7c9d86b44b76fb93c23ca36568a
 SHA256: e99741b2a487107831025ca0053ed449cc2ebb65acfe2d42502e3bd50ee51586
+
+Package: com.artikushg.switcherxi
+Name: SwitcherXI
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Description:  The iOS 11 appswitcher for iOS 10 jailbreak.
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: ArtikusHG
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/SwitcherXI+haptic.deb
+Size: 7302
+MD5sum: cc94024040b7123e02b2e1f2eb65e871
+SHA1: 197d2ba6c3c20faadfe51e75baad64ce0232c416
+SHA256: ce4b1b834f0c236506ac78fa470a17e08d3df45aaf8e1df56eca66933fdc8fbe
