@@ -73,9 +73,9 @@ MD5sum: cd1f5278461051435dc018de55ecd9c6
 SHA1: 902373cb8b9da7c9d86b44b76fb93c23ca36568a
 SHA256: e99741b2a487107831025ca0053ed449cc2ebb65acfe2d42502e3bd50ee51586
 
-Package: com.artikushg.switcherxi
+Package: com.artikus.switcherxi
 Name: SwitcherXI
-Version: 1.0.0-2
+Version: 1.0.0-7+debug
 Architecture: iphoneos-arm
 Description:  The iOS 11 appswitcher for iOS 10 jailbreak.
 Maintanier: Lost-Entrepreneur439 (Ella)
