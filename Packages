@@ -87,3 +87,18 @@ Size: 7302
 MD5sum: cc94024040b7123e02b2e1f2eb65e871
 SHA1: 197d2ba6c3c20faadfe51e75baad64ce0232c416
 SHA256: ce4b1b834f0c236506ac78fa470a17e08d3df45aaf8e1df56eca66933fdc8fbe
+
+Package: com.bytafont.bytafont3
+Name: Bytafont 3
+Version: 2.0
+Architecture: iphoneos-arm
+Description:  BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: BytaFont.com
+Section: Tweaks
+Depends: firmware (>= 9), unzip, mobilesubstrate
+Filename: debs/com.bytafont.bytafont3_3.5_iphoneos-arm.deb
+Size: 779640
+MD5sum: ce5fc79edb29efd057568d7a10e5beb5
+SHA1: 64aef98f883279c93c1611eabc29d03ab44af72a
+SHA256: d9dd82962695ce0fa427d6586b86ca44f643c7de90a028992cd4d2892afdd0c5
