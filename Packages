@@ -102,3 +102,18 @@ Size: 779640
 MD5sum: ce5fc79edb29efd057568d7a10e5beb5
 SHA1: 64aef98f883279c93c1611eabc29d03ab44af72a
 SHA256: d9dd82962695ce0fa427d6586b86ca44f643c7de90a028992cd4d2892afdd0c5
+
+Package: com.peterdev.libpddokdo
+Name: libPDDokdo
+Version: 1.3
+Architecture: iphoneos-arm
+Description:  An awesome library to get current weather which provides by iOS Weater. app easily.
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: Soongyu Kwon
+Section: Development
+Depends: 
+Filename: debs/com.peterdev.libpddokdo_1.3.deb
+Size: 6718
+MD5sum: 9eab42650b671fadd0ee909bb617c928
+SHA1: 0e40e1a0b90494c6a25ca0c904be661034ca9ac9
+SHA256: 4887b550b35e322a040d51fb8ecf28fb074af4c4f73ba433bc8da90b2a94a4d5
