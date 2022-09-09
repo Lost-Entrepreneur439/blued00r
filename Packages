@@ -117,3 +117,18 @@ Size: 6718
 MD5sum: 9eab42650b671fadd0ee909bb617c928
 SHA1: 0e40e1a0b90494c6a25ca0c904be661034ca9ac9
 SHA256: 4887b550b35e322a040d51fb8ecf28fb074af4c4f73ba433bc8da90b2a94a4d5
+
+Package: com.hackyouriphone.plus
+Name: MultiIconMover+
+Version: 2.11.0
+Architecture: iphoneos-arm
+Description:  Enhanced version of MultiIconMover.
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: Lance Fetters (ashikase)
+Section: Tweaks
+Depends: firmware (>= 4.2), firmware (<< 11.0), mobilesubstrate, preferenceloader
+Filename: debs/com.hackyouriphone.plus_2.11.0_iphoneos-arm.deb
+Size: 51462
+MD5sum: 20a299b90a24425f2e50aae7777568dc
+SHA1: f84ff707bc6e81145a6a34a99c354f9c6a51323e
+SHA256: 9bb2d6793caf8c34a79feb4219f0d49f8cfd9a4945f2b189ea58b445768f46b6
