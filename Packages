@@ -147,3 +147,18 @@ Size: 159236
 MD5sum: 1bf58b04546f85a99394dc86f746d51f
 SHA1: bae977f032ee6ede32bd3a252580d2e50e960e0d
 SHA256: babfbf902dc518a350c9b4afa68380881540af82f6531221044e603c0fa6e892
+
+Package: com.rishanan.notiXI
+Name: NotificationsUnleashedXI
+Version: 1.0
+Architecture: iphoneos-arm
+Description:  Internal Notifications Settings Unlocked.
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: Rishanan
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/com.rishanan.notixi_1.0.deb
+Size: 12570
+MD5sum: b2057f3378c098921f9c118ad6cbd6c0
+SHA1: 1c7ddca63c1179b3ade83a2c9494d660c2911f87
+SHA256: 14f29f3af54382f04e33ac4c0d3d416f317ea1edf98d629f1e00d73111bc0cab
