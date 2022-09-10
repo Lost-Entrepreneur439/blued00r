@@ -132,3 +132,18 @@ Size: 51462
 MD5sum: 20a299b90a24425f2e50aae7777568dc
 SHA1: f84ff707bc6e81145a6a34a99c354f9c6a51323e
 SHA256: 9bb2d6793caf8c34a79feb4219f0d49f8cfd9a4945f2b189ea58b445768f46b6
+
+Package: com.modmyi.gifroll
+Name: GIFRoll
+Version: 1.1
+Architecture: iphoneos-arm
+Description:  Display gifs in the Photos app.
+Maintanier: Lost-Entrepreneur439 (Ella)
+Author: isklikas
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/com.modmyi.gifroll_1.1_iphoneos-arm.deb
+Size: 159236
+MD5sum: 1bf58b04546f85a99394dc86f746d51f
+SHA1: bae977f032ee6ede32bd3a252580d2e50e960e0d
+SHA256: babfbf902dc518a350c9b4afa68380881540af82f6531221044e603c0fa6e892
