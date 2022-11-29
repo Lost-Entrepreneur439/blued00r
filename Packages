@@ -162,3 +162,33 @@ Size: 12570
 MD5sum: b2057f3378c098921f9c118ad6cbd6c0
 SHA1: 1c7ddca63c1179b3ade83a2c9494d660c2911f87
 SHA256: 14f29f3af54382f04e33ac4c0d3d416f317ea1edf98d629f1e00d73111bc0cab
+
+Package: com.smartiphone7.macosiconpack
+Name: iOS 7 Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description:  Feel a bit nostalgic with iOS 7 icons on your brand new iOS 14!
+Maintanier: Smartiphone7
+Author: Smartiphone7
+Section: Themes
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: debs/iOS7Icons.deb
+Size: 8574684
+MD5sum: 3312370c00f6f64f65be82fd9415e807
+SHA1: 833077230dc9bac7669d7860c560c42c070fc9cf
+SHA256: 155db5977136e40597d541eeeff49210bf33a19f1307d37f4ca0d6ef3bf51d32
+
+Package: kr.xsf1re.lockeypad
+Name: LockeyPad7
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description:  Back to iOS 7 KeyPad.
+Maintanier: XsF1re
+Author: XsF1re
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/kr.xsf1re.lockeypad7_0.0.2_iphoneos-arm.deb
+Size: 4542
+MD5sum: 89c5b47196e71430916f9616c09d960c
+SHA1: 9cf06a1448cc6fa76e4f1116561e16dd9dd8fe31
+SHA256: 133319d905f273b532aafb01ba99afbb04460d7ca931254917e3880a00dd06eb
