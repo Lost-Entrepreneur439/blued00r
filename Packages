@@ -171,7 +171,7 @@ Description:  Feel a bit nostalgic with iOS 7 icons on your brand new iOS 14!
 Maintanier: Smartiphone7
 Author: Smartiphone7
 Section: Themes
-Depends: com.anemonetheming.anemone, com.spark.snowboard
+Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: debs/iOS7Icons.deb
 Size: 8574684
 MD5sum: 3312370c00f6f64f65be82fd9415e807
