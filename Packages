@@ -207,3 +207,18 @@ Size: 87484
 MD5sum: 762010191bc23aaffca652fdb394cf39
 SHA1: dad2ca193e486b1aa4ca90ac60c312fd8c1a429a
 SHA256: 0457e069e0f72c49ce17e5f8795f5b8f23e6bc34ba3637a147b357ebacdef83e
+
+Package: com.ps.emojifontefm-native
+Name: Emoji iOS 15.4 (EFM) Native
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description:  iOS 15.4 Apple Emoji font (EFM, natively Compressed)
+Maintanier: Lost-Entrepreneur439
+Author: PoomSmart
+Section: Fonts (EFM)
+Depends: com.ps.emojifontmanager, firmware (>+ 14.0)
+Filename: debs/com.ps.emojifontefm-native_1.1.0_iphoneos-arm.deb
+Size: 60867960
+MD5sum: 3e2cdd74d53bb889a0d3c165e6427610
+SHA1: 3aadf9e73ceabc43ad9d675febe2c792bac90c5d
+SHA256: f22e66eb3a0b13bd13bffefff39257071fc3725a193e8e2dc5fa15cf191ec259
